@@ -1,2 +1,2 @@
 # fractalfrags
-Exploring fractals using shader fragments in Fragmentarium
+Exploring fractals using GLSL shader fragments in Fragmentarium
