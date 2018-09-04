@@ -1,4 +1,4 @@
 # fractalfrags
 Exploring fractals using GLSL shader fragments in Fragmentarium
 
-For now mainly Mandelbox fractals.
+For now mainly Mandelbox fractals.  
